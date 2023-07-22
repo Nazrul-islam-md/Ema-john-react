@@ -5,6 +5,7 @@
 .header nav{
     background-color: black;
     line-height: 40px;
+    text-align: left;
 }
 
 .header nav a{
