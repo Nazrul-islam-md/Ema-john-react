@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Ema-john-react/static/css/main.375c5d95.css",
+    "main.js": "/Ema-john-react/static/js/main.51307643.js",
+    "static/js/787.54ff0e24.chunk.js": "/Ema-john-react/static/js/787.54ff0e24.chunk.js",
+    "static/media/logo.png": "/Ema-john-react/static/media/logo.0dd9a5104bbc1da3e6ae.png",
+    "index.html": "/Ema-john-react/index.html",
+    "main.375c5d95.css.map": "/Ema-john-react/static/css/main.375c5d95.css.map",
+    "main.51307643.js.map": "/Ema-john-react/static/js/main.51307643.js.map",
+    "787.54ff0e24.chunk.js.map": "/Ema-john-react/static/js/787.54ff0e24.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.375c5d95.css",
+    "static/js/main.51307643.js"
+  ]
+}
